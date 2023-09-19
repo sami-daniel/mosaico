@@ -1,0 +1,52 @@
+#tabel{
+    width: 100%;
+}
+#primeiralinha
+{
+    height: 140px;
+}
+#img{
+    text-align: center;
+}
+#segundalinha{
+    height: 60px;
+}
+#terceiralinha{
+    height: 280px;
+}
+#quartalinha{
+    height: 280px;
+}
+#quintalinha{
+    height: 60px;
+}
+#sextalinha{
+    height: 140px;
+}
+#imgPng{
+    text-align: center;
+    background-color: #e3ffb6;
+}
+#amarelo{
+    background-color: #fffb99;
+}
+#tdGrandeText{
+    padding: 25px;
+    vertical-align: top;
+    background-color: #6bc1ff;
+}
+.cinza{
+    background-color: #d9d9d9;
+}
+#laranja{
+    background-color: #ff9900;
+}
+#vermelho{
+    background-color: #ff9a9a;
+}
+#azul{
+    background-color: #6bc1ff;
+}
+span{
+    font-size: 20px;
+}
